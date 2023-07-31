@@ -1,0 +1,300 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    background-color:#fff9e0;
+}
+
+.nav__bar
+{
+    display: flex;
+    width: auto;
+    background-color:#ffe19a ;
+    
+}
+
+.header__name
+{
+   width:100%;
+   text-align: center;
+   padding: 30px;
+   font-size: 25px;
+   font-family: 'great vibes',serif
+}
+
+.aboutme__button
+{
+    padding-top: 31px;
+    padding-right: 5px;
+}
+
+.button
+{
+    font-family: 'oswald',serif;
+    width: max-content;
+    background-color: #fff9e0;
+    color: #090101;
+
+    padding:5px;
+    border-radius: 7px;
+    font-weight: 600;    
+}
+
+@media (max-width:768px) 
+{
+    .button
+    {
+        width: 100%;
+    }   
+}
+
+@media (min-width:769px)
+{
+    .aboutme__button
+   {
+     padding-top: 37px;
+     padding-right: 5px;
+   }    
+}
+
+.intro
+{
+    padding: 100px;
+    padding-left: 37px;
+}
+
+.intro1
+{
+    font-family: 'average',serif;
+    padding-bottom:30px ;
+    font-size: 250%;
+}
+
+.intro2
+{
+    font-family: 'rubik',serif;
+}
+
+.intro3
+{
+    font-family: 'average',serif;
+    font-size:500% ;
+}
+
+.intro4
+{
+    font-family: 'rubik',serif;
+}
+
+.kiit__logo
+{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+
+.ashortline0
+{
+    padding-left: 37px;
+}
+
+.ashortline
+{
+    font-family: 'average',serif;
+    font-size: 500%;
+    padding-bottom: 10px;
+}
+
+.ashortline1
+{
+    font-family: 'rubik',serif;
+    font-size: 125px;
+   
+}
+
+.webdevimg0
+{
+   display: flex;
+   justify-content: center;
+   padding: 40px;
+}
+
+.webdevimg1
+{
+    width: 400px;
+}
+
+#about
+{
+    padding-left: 37px;
+    font-family: 'average',serif;
+    font-size: large;
+}
+
+.ashortline2
+{
+    font-family: 'rubik',serif;
+    font-size: 80px;
+}
+
+.ashortline3
+{
+    font-family: 'average',serif;
+    font-size: 500%;
+    padding-bottom:15px ;
+}
+
+.aboutme1
+{
+    padding-bottom: 10px;
+}
+
+.cont__in__aboutme1
+{
+    padding-left: 37px;
+    font-family: 'average',serif;
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+
+.clang0
+{
+    display: flex;
+    padding-left: 150px;
+    padding-bottom: 40px;
+}
+
+.clangtxt
+{
+    padding-top: 125px;
+    padding-left: 150px;
+    font-family: 'rubik',serif;
+}
+
+.c_lang0
+{
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.c_lang1
+{
+    padding-left: 125px;
+    width: 350px;
+}
+
+.c_langtxt
+{
+    padding-top: 155px;
+    padding-left: 125px;
+    font-family: 'rubik',serif;
+}
+
+.photo0
+{
+    display: flex;
+}
+
+.photo1
+{
+    padding-left: 150px;
+    width: 300px;
+}
+
+.phototxt
+{
+    padding-left: 150px;
+    padding-top: 100px;
+    font-family: 'rubik',serif;
+}
+
+.myprojects
+{
+    padding-left: 37px;
+    padding-top: 70px;
+    font-family: 'average',serif;
+}
+
+.myprojectscont0
+{
+    font-size:24px ;
+    padding-bottom: 40px;
+}
+
+.myprojectscont1
+{
+    padding-left: 37px;
+    display: flex;
+    padding-bottom: 70px;
+}
+
+.myprojectscont2
+{
+    padding-top: 50px;
+    padding-right: 70px;
+}
+
+.myprojectscont3
+{
+    width: 200px;
+}
+
+.myprojectscont4
+{
+    padding-left: 37px;
+    font-size: 12px;
+    font-family: 'average',serif;   
+    padding-bottom: 150px; 
+}
+
+.contactme
+{
+    padding-left: 37px;
+    font-family: 'rubik',serif;
+    padding-bottom: 50px;
+}
+
+.contact
+{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.cinstaimg
+{
+    width: 50px;
+    height: 50px;
+}
+
+.clinkedinimg
+{
+    width: 60px;
+    height: 50px;
+}
+
+.ctwitterimg
+{
+    width: 80px;
+    height: 60px;
+    
+}
+
+.line
+{
+    width: 1000px;
+    height: 5px;
+    background-color: #090101;
+    padding-left: 5000px;
+}
+
+.nameinfooter
+{
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'great vibes',serif;
+}
